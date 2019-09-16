@@ -1,5 +1,5 @@
-# Inventory-Management-System
-**Inventory Management System by ASP.NET and MSSQL**
+# Stock Mangement System
+**Stock Mangement System by ASP.NET and MSSQL**
 
 This is a Inventory Management System. Here i am trying to develop some basic and important fields of Inventory Management System.
 They are: 
@@ -17,7 +17,7 @@ They are:
 - Attach InventoryMangement.mdf database to your MSSQL Database or visual studio local database. 
 - If you can not access database file:
   - Edit connectionString from `Web.Debug.config` file and add `AttachDbFilename=|Enter your database directory here|InventoryMangement.mdf;` 
-- Login Username: `kaushik` Password: `123456`
+
 
 **Thanks.**
 
