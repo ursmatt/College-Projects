@@ -5,7 +5,7 @@
         .auto-style43 {
             width: 100%;
         }
-        .auto-style44 {
+        .auto-style43 {
             text-align: center;
             width:100%;
         }
