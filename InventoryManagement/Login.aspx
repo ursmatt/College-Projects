@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     <style type="text/css">
-        .auto-style43 {
+        .auto-style44 {
             width: 100%;
         }
         .auto-style43 {
